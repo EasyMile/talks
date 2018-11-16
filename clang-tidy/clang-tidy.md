@@ -277,3 +277,5 @@ explicit ThrottleContext(std::chrono::time_point<std::chrono::steady_clock> t) :
 - clang-tidy: <https://clang.llvm.org/extra/clang-tidy/>
 - clang-analyzer: <https://clang-analyzer.llvm.org/available_checks.html>
 - EasyMile: <http://www.easymile.com/>
+
+![Cette présentation sur Github](qr.png)
